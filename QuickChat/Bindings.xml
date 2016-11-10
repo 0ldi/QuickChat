@@ -56,4 +56,7 @@
   	<Binding name="nin">
 		ChatFrame_OpenChat("/9");
 	</Binding>
+  	<Binding name="ten">
+		ChatFrame_OpenChat("/10");
+	</Binding>
 </Bindings>

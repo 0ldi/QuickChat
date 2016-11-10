@@ -18,5 +18,6 @@ BINDING_NAME_six = "Chat Window /6";
 BINDING_NAME_sev = "Chat Window /7";
 BINDING_NAME_eig = "Chat Window /8";
 BINDING_NAME_nin = "Chat Window /9";
+BINDING_NAME_ten = "Chat Window /10";
 
 
