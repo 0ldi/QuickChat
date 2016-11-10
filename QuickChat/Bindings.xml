@@ -1,15 +1,6 @@
 <Bindings>
-	<Binding name="off" header="QuickChat">
-		ChatFrame_OpenChat("/o");
-	</Binding>
-	<Binding name="gui" header="QuickChat">
-		ChatFrame_OpenChat("/g");
-	</Binding>
- 	<Binding name="par" header="QuickChat">
-		ChatFrame_OpenChat("/p");
-	</Binding>
-	<Binding name="rai" header="QuickChat">
-		ChatFrame_OpenChat("/raid");
+	<Binding name="whi" header="QuickChat">
+		ChatFrame_OpenChat("/w ");
 	</Binding>
 	<Binding name="say" header="QuickChat">
 		ChatFrame_OpenChat("/say");
@@ -17,8 +8,26 @@
 	<Binding name="yel" header="QuickChat">
 		ChatFrame_OpenChat("/yell");
 	</Binding>
-	<Binding name="whi" header="QuickChat">
-		ChatFrame_OpenChat("/w");
+	<Binding name="emo" header="QuickChat">
+		ChatFrame_OpenChat("/e");
+	</Binding>
+ 	<Binding name="par" header="QuickChat">
+		ChatFrame_OpenChat("/p");
+	</Binding>
+	<Binding name="rai" header="QuickChat">
+		ChatFrame_OpenChat("/raid");
+	</Binding>
+	<Binding name="war" header="QuickChat">
+		ChatFrame_OpenChat("/rw");
+	</Binding>
+	<Binding name="bat" header="QuickChat">
+		ChatFrame_OpenChat("/bg");
+	</Binding>
+	<Binding name="gui" header="QuickChat">
+		ChatFrame_OpenChat("/g");
+	</Binding>
+	<Binding name="off" header="QuickChat">
+		ChatFrame_OpenChat("/o");
 	</Binding>
 	<Binding name="one">
 		ChatFrame_OpenChat("/1");
